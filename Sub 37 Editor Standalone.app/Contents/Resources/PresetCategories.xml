@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CATEGORY>
+  <1 Name="MISC"/>
+  <2 Name="CLASSIC"/>
+  <3 Name="DUO"/>
+  <4 Name="DRONE"/>
+  <5 Name="NOISE"/>
+  <6 Name="BASS"/>
+  <7 Name="LEAD"/>
+  <8 Name="BRASS"/>
+  <9 Name="WOODWIND"/>
+  <10 Name="SOUND FX"/>
+  <11 Name="KEYS"/>
+  <12 Name="ORGANS"/>
+  <13 Name="SYNC"/>
+  <14 Name="STRINGS"/>
+  <15 Name="PADS"/>
+  <16 Name="EVOLVING"/>
+  <17 Name="DISTORTED"/>
+  <18 Name="VOX"/>
+  <19 Name="ARP"/>
+  <20 Name="SEQUENCE"/>
+  <21 Name="PERCUSSION"/>
+  <22 Name="USER"/>
+  <23 Name="MISC"/>
+  <24 Name="MISC"/>
+  <25 Name="MISC"/>
+  <26 Name="MISC"/>
+  <27 Name="MISC"/>
+  <28 Name="MISC"/>
+  <29 Name="MISC"/>
+  <30 Name="MISC"/>
+  <31 Name="MISC"/>
+  <32 Name="MISC"/>
+</CATEGORY>
